@@ -15,7 +15,7 @@ namespace reversestring
             {
                 temp += resutl[i];
             }
-           Console.WriteLine (temp);
+          // Console.WriteLine (temp);
         }
 
         
